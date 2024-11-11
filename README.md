@@ -30,4 +30,6 @@ cd choice_a_number
 mkdir build
 cd build
 cmake ..
+make
+./Vident
 ```

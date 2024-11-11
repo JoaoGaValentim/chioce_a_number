@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/joao/Documentos/projects/number_vident/build",
+  "command": "/usr/bin/g++ -I/home/joao/Documentos/projects/number_vident/vident -I/home/joao/Documentos/projects/number_vident/PRIVATE -I/include -g -o CMakeFiles/vident.dir/src/main.cpp.o -c /home/joao/Documentos/projects/number_vident/src/main.cpp",
+  "file": "/home/joao/Documentos/projects/number_vident/src/main.cpp",
+  "output": "CMakeFiles/vident.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/joao/Documentos/projects/number_vident/build",
+  "command": "/usr/bin/g++ -I/home/joao/Documentos/projects/number_vident/vident -I/home/joao/Documentos/projects/number_vident/PRIVATE -I/include -g -o CMakeFiles/vident.dir/src/vident.cpp.o -c /home/joao/Documentos/projects/number_vident/src/vident.cpp",
+  "file": "/home/joao/Documentos/projects/number_vident/src/vident.cpp",
+  "output": "CMakeFiles/vident.dir/src/vident.cpp.o"
+}
+]
