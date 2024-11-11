@@ -1,3 +1,0 @@
-/home/joao/Documentos/projects/number_vident/build/CMakeFiles/vident.dir
-/home/joao/Documentos/projects/number_vident/build/CMakeFiles/edit_cache.dir
-/home/joao/Documentos/projects/number_vident/build/CMakeFiles/rebuild_cache.dir

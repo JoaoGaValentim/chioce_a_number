@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file,CMakeFiles/vident.dir/link.d CMakeFiles/vident.dir/src/main.cpp.o CMakeFiles/vident.dir/src/vident.cpp.o -o vident
