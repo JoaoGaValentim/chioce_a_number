@@ -27,7 +27,7 @@ auto runApp() -> void
 
     while (lifes >= 0)
     {
-        std::cout << "Olá! Estou pensando em um número de 1 am 100!" << '\n';
+        std::cout << "Olá! Estou pensando em um número de 1 á 100!" << '\n';
         std::cout << "Duvido vc advinhar! tente:" << '\n';
         std::cin >> number_input;
 
